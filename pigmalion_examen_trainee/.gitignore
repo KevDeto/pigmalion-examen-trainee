@@ -1,0 +1,6 @@
+# Archivos de IDE
+bin/
+*.class
+.settings/
+.project
+.classpath
